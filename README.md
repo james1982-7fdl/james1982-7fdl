@@ -8,8 +8,7 @@
 <div align="center">
 
 <!-- Jika ingin menampilkan logo PERUMKA, letakkan file logo di folder 'images/perumka.png' atau ubah src sesuai lokasi -->
-<img src=<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/705c1d43-700a-4deb-9231-b660c9d62e19" />
- alt="PERUMKA Logo" width="64" height="64" style="margin-bottom:8px; border-radius:8px;">
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/705c1d43-700a-4deb-9231-b660c9d62e19" alt="PERUMKA Logo" width="64" height="64" style="margin-bottom:8px; border-radius:8px;"/>
 
 <!-- Inline SVG banner: white background, garis biru tua dan biru langit -->
 <svg width="820" height="140" viewBox="0 0 820 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="James Stoner banner">
