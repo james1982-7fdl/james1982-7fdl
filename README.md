@@ -29,18 +29,18 @@
 
 # Hi — I'm **James Stoner** 👋
 
-> Desain minimal, kode bermakna, dan hasil yang bisa dipakai.  
+> Minimal design, meaningful code, and usable results.  
 > (Edit tagline di bagian atas sesuai preferensimu.)
 
 ---
 
-## 🔷 Ringkasan
-Saya membuat dan mengelola proyek-proyek yang mengedepankan _clean code_, dokumentasi baik, dan user experience yang sederhana. Di README ini ada ringkasan skill, project unggulan, dan cara menghubungi saya.
+## 🔷 Summary
+I create and maintain projects that prioritize_clean code_, good documentation, and a simple user experience. This README includes a summary of my skills, featured projects, and how to contact me.
 
 ---
 
 ## 🧰 Skill & Tech Stack
-- **Bahasa & Backend:** JavaScript (Node.js), Python, Go (sesuaikan)
+- **Language & Backend:** JavaScript (Node.js), Python, Go (sesuaikan)
 - **Frontend:** React, TypeScript, HTML & CSS
 - **DevOps & Tools:** Docker, GitHub Actions, CI/CD, PostgreSQL
 - **Lainnya:** Testing, TDD, desain API, dokumentasi yang jelas
@@ -49,18 +49,18 @@ Saya membuat dan mengelola proyek-proyek yang mengedepankan _clean code_, dokume
 
 ---
 
-## 💼 Project unggulan
-1. **project-a** — Deskripsi singkat proyek A, apa yang kamu bangun, dan nilai utamanya.  
+## 💼 Flagship Project
+1. **project-a** — A brief description of project A, what you built, and its key values.  
    _Link:_ `https://github.com/USERNAME/project-a`
 
-2. **project-b** — Deskripsi singkat proyek B, teknologi utama, dan pencapaian.  
+2. **project-b** — A brief description of project B, key technologies, and achievements.  
    _Link:_ `https://github.com/USERNAME/project-b`
 
 > (Ganti `USERNAME` dan tambahkan 1–3 project paling mewakili.)
 
 ---
 
-## 📫 Kontak & Sosial
+## 📫 Contact & Sosial
 [![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=follow&style=social)](https://github.com/USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 [![Twitter](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
