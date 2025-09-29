@@ -30,7 +30,7 @@
 # Hi — I'm **James Stoner** 👋
 
 > Minimal design, meaningful code, and usable results.  
-> (Edit tagline di bagian atas sesuai preferensimu.)
+> (Edit the tagline at the top to suit your preferences.)
 
 ---
 
@@ -45,7 +45,7 @@ I create and maintain projects that prioritize_clean code_, good documentation, 
 - **DevOps & Tools:** Docker, GitHub Actions, CI/CD, PostgreSQL
 - **Lainnya:** Testing, TDD, desain API, dokumentasi yang jelas
 
-> (Ganti / tambah skill sesuai kenyataan — jangan khawatir tentang panjang, buat yang relevan saja.)
+> (Change/add skills as needed — don't worry about length, just keep them relevant.)
 
 ---
 
@@ -56,7 +56,7 @@ I create and maintain projects that prioritize_clean code_, good documentation, 
 2. **project-b** — A brief description of project B, key technologies, and achievements.  
    _Link:_ `https://github.com/USERNAME/project-b`
 
-> (Ganti `USERNAME` dan tambahkan 1–3 project paling mewakili.)
+> (Replace `USERNAME` and add 1–3 most representative projects.)
 
 ---
 
@@ -67,12 +67,11 @@ I create and maintain projects that prioritize_clean code_, good documentation, 
 
 E-mail: james.stoner@example.com  ·  Lokasi: (opsional)
 
-> Ganti `USERNAME`, `YOUR-LINKEDIN`, `YOUR_TWITTER`, dan email dengan data asli.
-
+> Replace `USERNAME`, `YOUR-LINKEDIN`, `YOUR_TWITTER`, and email with real data.
 ---
 
-## 📈 GitHub Stats (opsional)
-<!-- Jika ingin menampilkan stats, uncomment baris di bawah setelah menambah action atau menyesuaikan konfigurasi -->
+## 📈 GitHub Stats (optional)
+<!-- If you want to display stats, uncomment the line below after adding an action or adjusting the configuration. -->
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=james1982-7fdl&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
@@ -82,30 +81,30 @@ E-mail: james.stoner@example.com  ·  Lokasi: (opsional)
 ---
 
 ## 🎯 Goals / Interests
-- Menyelesaikan proyek open-source yang membantu developer lain.
-- Belajar praktik arsitektur perangkat lunak yang long-lived.
-- Berkolaborasi pada proyek yang mengutamakan keberlanjutan & performa.
+-Complete open-source projects that help other developers.
+- Learn long-lived software architecture practices.
+- Collaborate on projects that prioritize sustainability and performance.
 
 ---
 
-## 📌 Cara pakai README ini (singkat)
-1. Buat repo bernama **`USERNAME/USERNAME`** (profil repo) atau edit README di repo profilmu.  
-2. Letakkan logo PERUMKA di: `images/perumka.png` (atau ubah path `<img src="...">` di atas).  
-3. Sesuaikan teks: tagline, skills, project links, dan social links.  
-4. (Opsional) Aktifkan GitHub Actions untuk update stats otomatis.
+## 📌 How to use this README (briefly)
+1. Create a repo named **`USERNAME/USERNAME`** (repo profile) or edit the README in your profile repo.
+2. Place the PERUMKA logo at: `images/perumka.png` (or change the path `<img src="...">` above).
+3. Customize the text: tagline, skills, project links, and social links.
+4. (Optional) Enable GitHub Actions for automatic stats updates.
 
 ---
 
-## ✨ Notes desain
-- Latar: putih bersih — fokus pada tipografi & spasi.  
-- Aksen: garis biru tua (`#0b3d91`) & biru langit (`#6ec1ff`) — dipakai pada header SVG dan elemen accent.  
-- Logo PERUMKA ditempatkan di atas header. Jika kamu ingin logo disamping teks pada SVG, saya bisa buatkan versi SVG dengan embed logo (butuh file logo).
+## ✨ Design notes
+- Background: pure white — focus on typography and spacing.
+- Accents: dark blue (`#0b3d91`) and sky blue (`#6ec1ff`) lines — used in the SVG header and accent elements.
+- The PERUMKA logo is placed above the header. If you want the logo next to the text in the SVG, I can create an SVG version with the logo embedded (logo file required).
 
 ---
 
-Jika mau, saya bisa:
-- Meng-generate versi header SVG yang **meng-embed** logo PERUMKA (butuh file logo — tinggal upload ke repo), atau
-- Menyesuaikan README ke bahasa Inggris, atau
-- Buatkan badge khusus, contoh CV singkat di README, atau contoh `projects` yang lebih terstruktur.
+If you'd like, I can:
+- Generate an SVG version of the header that embeds the PERUMKA logo (you need the logo file—just upload it to the repository), or
+- Adapt the README to English, or
+- Create a custom badge, a short CV example in the README, or a more structured project example.
 
-Mau saya tambahkan salah satu sekarang?
+Shall I add one now?
